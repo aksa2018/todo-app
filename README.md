@@ -12,13 +12,7 @@ This app helps users quickly jot down tasks, mark them as completed, and delete 
 - 📝 Mark tasks as completed (strikethrough)
 - ❌ Delete individual tasks
 - 💻 Responsive layout
-
----
-
-## Preview
-
-![Screenshot](screenshot.png) <!-- (Optional: Replace with a real image or remove this line) -->
-
+  
 ---
 
 ## Folder Structure
